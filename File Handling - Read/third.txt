@@ -1,0 +1,4 @@
+<last name>   <hourly wage>  <hours worked>
+Amit          43.00          16
+Atit          36.00          7
+Teresha       28.00          15

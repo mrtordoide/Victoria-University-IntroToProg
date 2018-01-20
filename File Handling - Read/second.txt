@@ -1,0 +1,4 @@
+<last name>   <hourly wage>  <hours worked>
+Saugat        30.00          8
+Sagun         55.00          13
+Sweta         23.00          12

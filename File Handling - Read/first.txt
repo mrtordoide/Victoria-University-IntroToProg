@@ -1,0 +1,4 @@
+<last name>   <hourly wage>  <hours worked>
+Sacar         34.00          10
+Pratik        25.00          20
+Prajwal       30.00          15
